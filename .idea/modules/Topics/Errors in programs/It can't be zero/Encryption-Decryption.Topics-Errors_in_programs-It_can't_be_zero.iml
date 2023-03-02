@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Errors_in_programs-It_can't_be_zero" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Errors in programs/It can't be zero" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Encryption-Decryption" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Errors in programs/It can't be zero">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Errors in programs/It can't be zero/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Errors in programs/It can't be zero/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Errors in programs/It can't be zero/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
